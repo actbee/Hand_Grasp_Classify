@@ -29,8 +29,7 @@ We reference some other works to our project， this may include:
  "Pixel-level Hand Detection for Ego-centric Videos" by Cheng Li and Kris M. Kitani
  (https://github.com/irllabs/handtrack and https://github.com/cmuartfab/grabcut)
  
- "Hand Keypoint Detection in Single Images using Multiview Bootstrapping” by Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh
- 
+ "Hand Keypoint Detection in Single Images using Multiview Bootstrapping” by Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh 
   (https://github.com/spmallick/learnopencv/tree/master/HandPose)
  
  We really appreciate them for their great works!
