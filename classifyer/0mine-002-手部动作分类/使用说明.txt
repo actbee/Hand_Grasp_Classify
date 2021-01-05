@@ -1,0 +1,9 @@
+fenbianlv.py文件：用来调整分辨率的，因为本代码能够处理的图片是32*32像素的
+modify.py文件：用来一次性重命名图片的
+main-train.py文件：用来生成模型的，会根据train-data2文件夹生成模型，生成的模型会在train-model文件夹下面
+main-test.py文件：用来使用模型进行验证的，会对test文件夹里面的图片进行分类，然后计算出正确率
+test文件夹：用来测试的图片，命名为“标签_序号.jpg”
+val文件夹：最初始的训练用图片
+train-data文件夹：将val文件夹中的图片经过命名格式调整（调整为“标签_序号.jpg”）之后的图片
+train-data2文件夹：将train-data文件夹中的文件经过分辨率调整后的图片
+train-model文件夹：存放训练好的模型

@@ -1,0 +1,3 @@
+我们尝试的另一种方法，先grabcut人工打一部分数据的标签，训练手部分割器得到分割结果（handtracker），最后分割手部矩形区提取特征点再k-means聚类（classify）
+因为太大，故不上传中间结果和最后结果，而只包含源码，说明了我们的整个思路。
+其中整个代码的开发环境是OSX, grabcut和handtracker用了opencv2,而classify用了opencv3.如果想运行请自行搭建环境，并根据源代码修改目录结构。
