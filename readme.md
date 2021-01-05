@@ -22,7 +22,7 @@ this link: https://pan.baidu.com/s/1zGeSSzMKpOd6dWMGApxMTw (password: cvpr)
 
 ## Statement
 
-We reference some other works to our project， this may include:
+We reference some other works to our project，this may include:  
  "Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation" by Minjie Cai, Feng Lu and Yoichi Sato  
  (https://github.com/actbee/UMA)
  
