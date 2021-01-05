@@ -20,7 +20,7 @@ OpenCV3 is needed to run C_classify/.
 You can download the whole documents(including some other images produced in this task) through
 this link: https://pan.baidu.com/s/1zGeSSzMKpOd6dWMGApxMTw (password: cvpr)
 
-## Statement
+## STATEMENT
 
 We reference some other works to our project，this may include:  
  "Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation" by Minjie Cai, Feng Lu and Yoichi Sato  
