@@ -38,7 +38,7 @@ We reference some other works to our project，this may include:
  "Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation" by Minjie Cai, Feng Lu and Yoichi Sato  
  [https://github.com/actbee/UMA](https://github.com/actbee/UMA)
  
- "Pixel-level Hand Detection for Ego-centric Videos" by Cheng Li and Kris M. Kitani    *
+ "Pixel-level Hand Detection for Ego-centric Videos" by Cheng Li and Kris M. Kitani    
  ([https://github.com/irllabs/handtrack](https://github.com/irllabs/handtrack) and [https://github.com/cmuartfab/grabcut](https://github.com/cmuartfab/grabcut))
  
  "Hand Keypoint Detection in Single Images using Multiview Bootstrapping” by Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh  
