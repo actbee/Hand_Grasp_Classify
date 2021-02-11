@@ -1,11 +1,21 @@
 # Hand Grasp Classify
 
+![avatar](https://github.com/actbee/Hand_Grasp_Classify/blob/master/img/task.png?raw=true)
+
 ## ABOUT THE TASK
 
 We are asked to find the hand image from the screenshots of a First-Person Video (EGTEA Gaze+ dataset to be more specific) and then 
-classify the grasp type of different hands seperately.
+classify the grasp type of different hands seperately.  
 
-![avatar](https://github.com/actbee/Hand_Grasp_Classify/blob/master/img/task.png?raw=true)
+Our method composes two parts: A.Find out the hand from the images and B. Classify hands by their grasp gestures.  
+
+![img1](https://github.com/actbee/actbee.github.io/blob/master/images/hand_grasp.png?raw=true)
+
+We use two methods for each part in order to finish this task. Both covers a traditional method and a deep-learning based method.
+The result shows some kind of superiority of deep-learning based method over the traditional method.
+You can find more details through our [report](https://github.com/actbee/Hand_Grasp_Classify/blob/master/report.pdf) and our [slides](https://github.com/actbee/Hand_Grasp_Classify/blob/master/final.pdf) (currently both Chinese only).
+
+![img2](https://github.com/actbee/actbee.github.io/blob/master/images/hand_grasp_2.png?raw=true)
 
 ## RUNNING ENVIRONMENT
 
