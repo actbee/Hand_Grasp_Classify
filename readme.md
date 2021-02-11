@@ -17,6 +17,8 @@ You can find more details through our [report](https://github.com/actbee/Hand_Gr
 
 ![img2](https://github.com/actbee/actbee.github.io/blob/master/images/hand_grasp_2.png?raw=true)
 
+This project has great potential future use into field like Human-Computer Interaction and also can be used to create some creative works.
+
 ## RUNNING ENVIRONMENT
 
 We have run our UMA/ and classifyer/ part on Google Colab, which means they usually need a typical GPU environment, some mainstream deeplearning freameworks(like 
@@ -28,18 +30,18 @@ OpenCV3 is needed to run C_classify/.
 ## WHOLE DOCUMENTS
 
 You can download the whole documents(including some other images produced in this task) through
-this link: https://pan.baidu.com/s/1zGeSSzMKpOd6dWMGApxMTw (password: cvpr)
+this link: [https://pan.baidu.com/s/1zGeSSzMKpOd6dWMGApxMTw](https://pan.baidu.com/s/1zGeSSzMKpOd6dWMGApxMTw) (password: cvpr)
 
 ## STATEMENT
 
 We reference some other works to our project，this may include:  
- "Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation" by Minjie Cai, Feng Lu and Yoichi Sato  
- (https://github.com/actbee/UMA)
+ *"Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation" by Minjie Cai, Feng Lu and Yoichi Sato  *
+ [https://github.com/actbee/UMA](https://github.com/actbee/UMA)
  
- "Pixel-level Hand Detection for Ego-centric Videos" by Cheng Li and Kris M. Kitani    
- (https://github.com/irllabs/handtrack and https://github.com/cmuartfab/grabcut)
+ *"Pixel-level Hand Detection for Ego-centric Videos" by Cheng Li and Kris M. Kitani    *
+ ([https://github.com/irllabs/handtrack](https://github.com/irllabs/handtrack) and [https://github.com/cmuartfab/grabcut](https://github.com/cmuartfab/grabcut))
  
- "Hand Keypoint Detection in Single Images using Multiview Bootstrapping” by Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh   
-  (https://github.com/spmallick/learnopencv/tree/master/HandPose)
+ *"Hand Keypoint Detection in Single Images using Multiview Bootstrapping” by Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh   *
+  [https://github.com/spmallick/learnopencv/tree/master/HandPose](https://github.com/spmallick/learnopencv/tree/master/HandPose)
  
  We really appreciate them for their great works!
